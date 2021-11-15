@@ -53,14 +53,14 @@ $monsters[2]['costume'] = $costume[2];
 $monsters[3]['name'] ="Sulley";
 $monsters[3]['skill'] ="Dobře straší";
 $monsters[3]['atractivity'] ="3/10";
-$monsters[3]['strength'] ="15/10";
+$monsters[3]['strenght'] ="15/10";
 $monsters[3]['fear'] ="12/10";
 $monsters[3]['costume'] =$costume[3];
 
 $monsters[4]['name'] = "Randall";
 $monsters[4]['skill'] = "Nechutnost";
 $monsters[4]['atractivity'] = "-11/10";
-$monsters[4]['strength'] = "15/10";
+$monsters[4]['strenght'] = "15/10";
 $monsters[4]['fear'] = "100/10";
 $monsters[4]['costume'] = $costume[3];
 
